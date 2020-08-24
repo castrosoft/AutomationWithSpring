@@ -2,19 +2,19 @@
 
 ### Pre-requisitos 📋
 
-OS:Ubuntu 18.04.5 LTS
-JDK = 1.8
-Selenium = 3.141.59
-TestNG =  6.14.13       
-IDE = Intellij IDEA 2020.2 (Ultimate Edition)
-Spring: :: Spring Boot ::        (v2.3.3.RELEASE)
+### OS:Ubuntu 18.04.5 LTS
+### JDK = 1.8
+### Selenium = 3.141.59
+### TestNG =  6.14.13       
+### IDE = Intellij IDEA 2020.2 (Ultimate Edition)
+### Spring: :: Spring Boot ::        (v2.3.3.RELEASE)
 
 
 ## Comenzando 🚀
 
-1- git clone https://github.com/castrosoft/TestAutomation.git
-2- From Intellij, File -> Open... -> <path-to-folder>
-3- Enjoy it!
+### 1- git clone https://github.com/castrosoft/TestAutomation.git
+### 2- From Intellij, File -> Open... -> <path-to-folder>
+### 3- Enjoy it!
 
 ### Instalación 🔧
 
